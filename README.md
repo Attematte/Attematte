@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Atte and thank you for looking into my Github profile! :)
+My name is Atte and thank you for looking into my Github profile!
 
 I am a recent MBA graduate from Åbo Akademi University. 
 In my Github profile, you can find some of the projects that I did at the university 
