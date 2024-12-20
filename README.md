@@ -1,7 +1,7 @@
 ### Hei!
 Nimeni on Atte Kohonen ja kiitos kun tutustuit Github-profiiliini. 
 
-Täältä löydät osan projekteistani, jotka liittyvät data analytiikkaan ja ohjelmointiin. Projekteissa olen analysoinut dataa Pythonin ja ekselin avulla ja visualisoinut dataa Tableaun avulla. Lisäksi löytyy muutama ohjelmointi projekti Pythonilla, sekä markkinointi projekti, missä kehitin markkinointikampanjoita ja analysoin markkinointidataa kampanjoiden parantamiseksi. 
+Täältä löydät osan projekteistani, jotka liittyvät data-analytiikkaan ja ohjelmointiin. Projekteissa olen analysoinut dataa Pythonin ja ekselin avulla ja visualisoinut dataa Tableaun avulla. Lisäksi löytyy muutama ohjelmointi projekti Pythonilla, sekä markkinointi projekti, missä kehitin markkinointikampanjoita ja analysoin markkinointidataa kampanjoiden parantamiseksi. 
 
 ### Hello!
 
